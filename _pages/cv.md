@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Artificial Intelligence, The School of the Gifted Young, University of Science and Technology of China (USTC), 2022 – 2026
-* Ph.D. in Artificial Intelligence, University of Science and Technology of China (USTC), 2026 – Present
+* **B.S. in Artificial Intelligence** — The School of the Gifted Young, University of Science and Technology of China (USTC) (2022 – 2026)
+* **Ph.D. in Artificial Intelligence** — University of Science and Technology of China (USTC) (2026 – Present)
 
 Experiences
 ======
-* 2026.4 – Present: Intern
-  * Alibaba Qwen Business Group
+* **Intern** — Alibaba Qwen Business Group (2026.4 – Present)
 
 Publications
 ======
