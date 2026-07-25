@@ -16,10 +16,6 @@ Education
 
 Experiences
 ======
-* 2024 – 2026: Undergraduate Research Assistant
-  * USTC Lab of Data Science
-* 2026 – Present: Ph.D. Researcher
-  * USTC Lab of Data Science
 * 2026.4 – Present: Intern
   * Alibaba Qwen Business Group
 
