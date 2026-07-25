@@ -29,7 +29,7 @@ Hi, I'm Juntao You (尤俊韬). I am currently a Ph.D. student at the **Universi
 
 \2. Xiaoyan Zhao\*, **Juntao You\***, Yang Zhang, Wenjie Wang, Hong Cheng, Fuli Feng, See-Kiong Ng, Tat-Seng Chua. "NextQuill: Causal Preference Modeling for Enhancing LLM Personalization." *International Conference on Learning Representations (ICLR)*, 2026.
 
-\3. Yang Zhang\*, **Juntao You\***, Yimeng Bai, Jizhi Zhang, Keqin Bao, Wenjie Wang, Tat-Seng Chua. "Causality-Enhanced Behavior Sequence Modeling in LLMs for Personalized Recommendation." *Under Review*, 2024.
+\3. Yang Zhang\*, **Juntao You\***, Yimeng Bai, Jizhi Zhang, Keqin Bao, Wenjie Wang, Tat-Seng Chua. "[Causality-Enhanced Behavior Sequence Modeling in LLMs for Personalized Recommendation](https://arxiv.org/abs/2410.22809)." *Under Review*, 2024.
 
 (\* denotes equal contribution.)
 
