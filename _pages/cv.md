@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Artificial Intelligence, University of Science and Technology of China (USTC), 2022 – Present
-  * GPA: 3.87 / 4.3
-  * Relevant Coursework: Linear Algebra, Data Structures and Algorithms, Probabilistic Theory, Machine Learning
 
 Research Experience
 ======

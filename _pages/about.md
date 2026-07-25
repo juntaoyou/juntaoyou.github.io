@@ -25,8 +25,6 @@ I am fortunate to be advised by **Prof. Fuli Feng** and mentored by **Yang Zhang
 |--------|------------|-------|
 | 2022 – Present | University of Science and Technology of China (USTC) | B.S. in Artificial Intelligence |
 
-- **GPA**: 3.87 / 4.3
-- **Relevant Coursework**: Linear Algebra, Data Structures and Algorithms, Probabilistic Theory, Machine Learning
 
 ## 📝 Publications
 
