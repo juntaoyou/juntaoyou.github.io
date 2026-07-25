@@ -34,11 +34,9 @@ I am fortunate to be advised by **Prof. Fuli Feng** and mentored by **Yang Zhang
 
 (\* denotes equal contribution.)
 
-## 💼 Research Experience
+## 💼 Experiences
 
 - **Undergraduate Research Assistant** — USTC Lab of Data Science (2024 – Present)
-  - Advisor: Prof. Fuli Feng | Mentor: Yang Zhang
-  - Research Direction: LLM Personalization
 
 ## 🛠️ Skills
 
