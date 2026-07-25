@@ -16,8 +16,6 @@ I am fortunate to be advised by **Prof. Fuli Feng** and mentored by **Yang Zhang
 ## 🔬 Research Interests
 
 - **LLM Personalization** — Aligning language models to individual user preferences
-- **Causal Reasoning in Recommendation** — Applying causal inference to improve recommendation systems
-- **Neural Mechanisms of LLMs** — Understanding how preferences are encoded at the neuron level
 
 ## 📚 Education
 
@@ -45,7 +43,7 @@ I am fortunate to be advised by **Prof. Fuli Feng** and mentored by **Yang Zhang
 ## 🛠️ Skills
 
 - **Languages**: Python (PyTorch, Transformers), C++, HTML/CSS/JavaScript, SQL
-- **ML/AI**: LLM Fine-tuning, Recommendation Systems, Causal Inference
+- **ML/AI**: LLM Fine-tuning, Recommendation Systems
 
 ## 📬 Contact
 
