@@ -1,0 +1,6 @@
+Step 1: images/ directory ensured.
+Step 2: Copied d:\Homepage\juntaoyou.github.io/_pages/Ö÷Ò³ÕÕ.jpg -> d:\Homepage\juntaoyou.github.io/images/profile.jpg
+Step 3: Verification PASSED. File exists at d:\Homepage\juntaoyou.github.io/images/profile.jpg
+  Source size: 211566 bytes
+  Dest size:   211566 bytes
+  Sizes match: True
