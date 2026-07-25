@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hi, I'm Juntao You (尤俊韬)
+👋 Hi, I'm Juntao You (尤俊韬)
 
 I am an undergraduate researcher at the **University of Science and Technology of China (USTC)**, pursuing a Bachelor's degree in Artificial Intelligence. My research focuses on **LLM Personalization** — understanding and enhancing how large language models can capture and adapt to individual user preferences.
 
@@ -21,7 +21,8 @@ I am fortunate to be advised by **Prof. Fuli Feng** and mentored by **Yang Zhang
 
 | Period | Institution | Major |
 |--------|------------|-------|
-| 2022 – Present | University of Science and Technology of China (USTC) | B.S. in Artificial Intelligence |
+| 2022 – 2026 | University of Science and Technology of China (USTC) | B.S. in Artificial Intelligence |
+| 2026 – Present | University of Science and Technology of China (USTC) | Ph.D. in Artificial Intelligence |
 
 
 ## 📝 Publications
@@ -36,7 +37,8 @@ I am fortunate to be advised by **Prof. Fuli Feng** and mentored by **Yang Zhang
 
 ## 💼 Experiences
 
-- **Undergraduate Research Assistant** — USTC Lab of Data Science (2024 – Present)
+- **Undergraduate Research Assistant** — USTC Lab of Data Science (2024 – 2026)
+- **Intern** — Alibaba Qwen Business Group (2026.4 – Present)
 
 ## 📬 Contact
 

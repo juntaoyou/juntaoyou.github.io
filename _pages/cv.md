@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Artificial Intelligence, University of Science and Technology of China (USTC), 2022 – Present
+* B.S. in Artificial Intelligence, University of Science and Technology of China (USTC), 2022 – 2026
+* Ph.D. in Artificial Intelligence, University of Science and Technology of China (USTC), 2026 – Present
 
 Research Experience
 ======
-* 2024 – Present: Undergraduate Research Assistant
+* 2024 – 2026: Undergraduate Research Assistant
   * USTC Lab of Data Science
+* 2026.4 – Present: Intern
+  * Alibaba Qwen Business Group
   * Advisor: Prof. Fuli Feng
   * Mentor: Yang Zhang
   * Research Direction: LLM Personalization
