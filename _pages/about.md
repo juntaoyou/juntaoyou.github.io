@@ -19,7 +19,7 @@ Hi, I'm Juntao You (尤俊韬). I am currently a Ph.D. student at the **Universi
 
 | Period | Institution | Major |
 |--------|------------|-------|
-| 2022 – 2026 | University of Science and Technology of China (USTC) | B.S. in Artificial Intelligence |
+| 2022 – 2026 | The School of the Gifted Young, University of Science and Technology of China (USTC) | B.S. in Artificial Intelligence |
 | 2026 – Present | University of Science and Technology of China (USTC) | Ph.D. in Artificial Intelligence |
 
 
