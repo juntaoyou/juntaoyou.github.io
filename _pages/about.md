@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Juntao You"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -37,11 +37,6 @@ I am fortunate to be advised by **Prof. Fuli Feng** and mentored by **Yang Zhang
 ## 💼 Experiences
 
 - **Undergraduate Research Assistant** — USTC Lab of Data Science (2024 – Present)
-
-## 🛠️ Skills
-
-- **Languages**: Python (PyTorch, Transformers), C++, HTML/CSS/JavaScript, SQL
-- **ML/AI**: LLM Fine-tuning, Recommendation Systems
 
 ## 📬 Contact
 
