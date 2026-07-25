@@ -43,4 +43,3 @@ Hi, I'm Juntao You (尤俊韬). I am currently a Ph.D. student at the **Universi
 
 - **Email**: [ustcyjt@mail.ustc.edu.cn](mailto:ustcyjt@mail.ustc.edu.cn)
 - **GitHub**: [juntaoyou](https://github.com/juntaoyou)
-- **Phone**: 15757379125
