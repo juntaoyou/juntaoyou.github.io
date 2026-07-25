@@ -36,6 +36,7 @@ Hi, I'm Juntao You (尤俊韬). I am currently a Ph.D. student at the **Universi
 ## 💼 Experiences
 
 - **Undergraduate Research Assistant** — USTC Lab of Data Science (2024 – 2026)
+- **Ph.D. Researcher** — USTC Lab of Data Science (2026 – Present)
 - **Intern** — Alibaba Qwen Business Group (2026.4 – Present)
 
 ## 📬 Contact
